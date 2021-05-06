@@ -1,2 +1,2 @@
 # 3D-Frogger
- TÖL203M - Tölvugrafík - 3D Frogger
+Verkefni 3 úr Tölvugrafík TÖL203M (2020)
